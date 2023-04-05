@@ -2,6 +2,7 @@ package codingrun;
 
 import solution.Solution1;
 import solution.Solution2;
+import solution.Solution3;
 
 public class Run {
 	
@@ -12,8 +13,11 @@ public class Run {
 //		s1.solution(survey, choices);
 		
 		
-		Solution2 s2 = new Solution2();
-		s2.solution2();
+//		Solution2 s2 = new Solution2();
+//		s2.solution2();
+		
+		Solution3 s3 = new Solution3();
+		s3.solution3();
 	}
 
 }
