@@ -1,8 +1,6 @@
 package codingrun;
 
-import solution.Solution1;
-import solution.Solution2;
-import solution.Solution3;
+import solution.Solution4;
 
 public class Run {
 	
@@ -16,8 +14,11 @@ public class Run {
 //		Solution2 s2 = new Solution2();
 //		s2.solution2();
 		
-		Solution3 s3 = new Solution3();
-		s3.solution3();
+//		Solution3 s3 = new Solution3();
+//		s3.solution3();
+		
+		Solution4 s4 = new Solution4();
+		s4.solution4();
 	}
 
 }
